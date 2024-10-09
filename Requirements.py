@@ -1,0 +1,16 @@
+pip install pandas 
+pip install numpy
+pip install matplotlib 
+pip install seaborn  
+pip install scikit-learn 
+pip install nltk 
+pip install wordcloud
+pip install contractions
+pip install textblob 
+pip install lightgbm
+pip install emoji
+pip install spacy
+pip install beautifulsoup4
+pip install autocorrect
+pip install imblearn
+pip install requests
